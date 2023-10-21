@@ -1,2 +1,4 @@
 # PMS
-Pharmacy Management System
+Pharmacy Management System 
+
+for windows
